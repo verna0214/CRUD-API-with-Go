@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"encoding/json"
-	"main/rand"
+	"math/rand"
 	"net/http"
 	"strconv"
 	"github.com/gorilla/mux"
